@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kr1sZ</h1>
 <h3 align="center">A random person from Poland</h3>
-
+<p><img align="right" alt= "gif" src="https://github.com/Kr1sGZ/Kr1sGZ/blob/main/Banner.gif" width="500" height="320" /></code>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kr1sxgz&label=Profile%20views&color=0e75b6&style=flat" alt="kr1sxgz" /> </p>
 
