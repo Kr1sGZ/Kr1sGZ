@@ -1,6 +1,7 @@
 ![](https://share.creavite.co/4A5FNp1WwDEXUEKL.gif)
 <h1 align="center">Hi 👋, I'm Kr1sZ</h1>
 <h3 align="center">A random person from Poland</h3>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kr1sxgz&label=Profile%20views&color=0e75b6&style=flat" alt="kr1sxgz" /> </p>
 
