@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kr1sxgz&label=Profile%20views&color=0e75b6&style=flat" alt="kr1sxgz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/adix838919" target="blank"><img src="https://img.shields.io/twitter/follow/adix838919?logo=twitter&style=for-the-badge" alt="adix838919" /></a> </p>
-
 - Bitcoin wallet: **bc1qjjzdtfj3vznyuax70u3x7l2lrqu7p5uney5jhe**
 
 - Etherum wallet: **0x7405cf40Bf8530188B54A4aEb4e3Af3D425397e5**
